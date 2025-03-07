@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Archon - AI Agent Builder
 
 <img src="public/Archon.png" alt="Archon Logo" />
@@ -232,3 +233,6 @@ For version-specific details:
 - [V2 Documentation](iterations/v2-agentic-workflow/README.md)
 - [V3 Documentation](iterations/v3-mcp-support/README.md)
 - [V4 Documentation](iterations/v4-streamlit-ui-overhaul/README.md)
+=======
+# Archon
+>>>>>>> b8ede17cb191149e66d241a0512cba56c0f3526b
